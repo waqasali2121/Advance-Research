@@ -1,4 +1,3 @@
-```python
 # crew.py
 # Evidence Research Studio
 # Groq compatibility workaround for CrewAI cache_breakpoint errors
@@ -302,4 +301,3 @@ important evidence gaps. Do not invent information to fill gaps.
     results["final_report"] = previous_output
 
     return results
-```
