@@ -1,1 +1,5 @@
-
+streamlit>=1.40.0
+crewai[litellm]>=1.15.0
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+pandas>=2.2.3
